@@ -1,1 +1,1 @@
-# ai_art_tn
+# masks/resources for AI ART TN
